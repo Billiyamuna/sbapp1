@@ -21,4 +21,4 @@ A Spring Boot application using **JDBC (without JPA)** for database connectivity
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/OmkarMekala/SB-without-JPA.git
+   git clone https://github.com/Billiyamuna/sbapp1.git
